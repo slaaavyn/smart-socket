@@ -18,7 +18,7 @@
 
 #define SWITHC_0 10
 #define SWITHC_1 15
-#define SWITHC_2 0
+#define SWITHC_2 3
 #define SWITHC_3 4
 #define SWITHC_4 5
 
